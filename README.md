@@ -8,7 +8,6 @@
 
  - 王启孟/男/1996 
  - 本科 / 山西大学 / 软件工程
- - 技术博客 [https://blog.csdn.net/boom_man/](https://blog.csdn.net/boom_man/)
  - 个人博客 [https://www.boommanpro.cn](https://www.boommanpro.cn)
 
 ## 开源书籍
