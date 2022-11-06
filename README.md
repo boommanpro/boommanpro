@@ -9,7 +9,7 @@
 
 ## 个人信息
 
- - 王启孟/男/1996 
+ - 王启孟 / 男 / 1996 
  - 本科 / 山西大学 / 软件工程
  - 个人博客 [https://www.boommanpro.cn](https://www.boommanpro.cn)
 
