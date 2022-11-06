@@ -17,12 +17,13 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=BoomManPro alt=BoomManPro /> </p>
 
 <a href="https://github.com/BoomManPro">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BoomManPro&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/BoomManPro">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoomManPro&layout=compact" />
 </a>
-
+</br>
+</br>
+<a href="https://github.com/BoomManPro">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BoomManPro&show_icons=true&include_all_commits=true" />
+</a>
 
 
 <!--
