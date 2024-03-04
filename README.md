@@ -1,4 +1,4 @@
-# Hey 👋, This is BoomManPro
+# Hey 👋, This is boommanpro
 
 ## 联系方式
 
