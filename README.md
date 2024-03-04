@@ -49,16 +49,16 @@ Languages and Tools:
 -->
 
 ## 开源书籍
-[Java 单元测试](https://boommanpro.cn/unit-test/#/)
+[Java 单元测试](https://boommanpro.github.io/unit-test/#/)
 
-[Java selenium](https://boommanpro.cn/java-selenium-crawler/#/)
+[Java selenium](https://boommanpro.github.io/java-selenium-crawler/#/)
 
-[Java 日志技术](https://boommanpro.cn/java-logging-framework/#/) 
+[Java 日志技术](https://boommanpro.github.io/java-logging-framework/#/) 
 
 ## 开源小工具
 
-[windows 右键base64编码文件](https://github.com/BoomManPro/go-base64)
+[windows 右键base64编码文件](https://github.com/boommanpro/go-base64)
 
-[Windows 右键获取文件的md5值](https://github.com/BoomManPro/go-md5-windows)
+[Windows 右键获取文件的md5值](https://github.com/boommanpro/go-md5-windows)
 
-[内网网盘 产品经理上传Axure的小工具](https://github.com/BoomManPro/web-folder-upload)
+[内网网盘 产品经理上传Axure的小工具](https://github.com/boommanpro/web-folder-upload)
