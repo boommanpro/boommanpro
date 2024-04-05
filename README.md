@@ -62,3 +62,11 @@ Languages and Tools:
 [Windows 右键获取文件的md5值](https://github.com/boommanpro/go-md5-windows)
 
 [内网网盘 产品经理上传Axure的小工具](https://github.com/boommanpro/web-folder-upload)
+
+[IDEA 代码练习插件](https://github.com/boommanpro/type-idea-plugin)
+
+[StateMacine 在线工厂](https://github.com/boommanpro/state-machine-template-factory)
+
+[Build Your Skill Radar](https://github.com/boommanpro/my-skill-radar)
+
+[XXL Job 自用版](https://github.com/boommanpro/xxl-job)
