@@ -11,7 +11,7 @@
 
  - 王启孟 / 男 / 1996 
  - 本科 / 山西大学 / 软件工程
- - 个人博客 [boommanpro.cn](https://www.boommanpro.cn)
+ - 个人博客 [boommanpro.cn](https://boommanpro.cn)
  - Github Pages [boommanpro.github.io](https://boommanpro.github.io/)
 
 ## Some of my Github Stats
