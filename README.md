@@ -2,7 +2,6 @@
 
 ## 联系方式
 
-- 手机：15735105106（手机号即微信号）
 - Email：[![Mail Badge](https://img.shields.io/badge/-boommanpro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:boommanpro@gmail.com)](mailto:boommanpro@gmail.com)
 - 微信号: Love_You_8023
 - Github： [![Github Badge](https://img.shields.io/badge/-BoomManPro-grey?style=flat&logo=github&logoColor=white&link=https://github.com/BoomManPro/)](https://www.github.com/BoomManPro/)
@@ -16,16 +15,6 @@
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=BoomManPro alt=BoomManPro /> </p>
-
-<a href="https://github.com/BoomManPro">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoomManPro&layout=compact" />
-</a>
-</br>
-</br>
-<a href="https://github.com/BoomManPro">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BoomManPro&show_icons=true&include_all_commits=true" />
-</a>
-
 
 <!--
 **BoomManPro/BoomManPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
