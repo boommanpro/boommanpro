@@ -40,10 +40,10 @@ Java 老兵,现在在做 AI 工作流编排和多 Agent 协作的可视化工具
 
 ### 我在做什么
 
-**[Gaia Workflow Engine](https://github.com/boommanpro/gaia-workflow-engine)** · 把 AI 工作流搬上无限画布
+**[gaia workflow engine](https://github.com/boommanpro/gaia-workflow-engine)** · 把 AI 工作流搬上无限画布
 在无限画布上设计、测试、部署 AI 流程,无需写代码。结合 flowgram.ai 的能力与 Java 服务端,提供生产级工作流管理。
 
-**[Paddle Copy](https://github.com/boommanpro/paddle-copy)** · 图片文字一秒复制
+**[paddle copy](https://github.com/boommanpro/paddle-copy)** · 图片文字一秒复制
 基于 Paddle OCR 的本地服务,微信图片识别复制效果。
 
 **[json4u](https://github.com/boommanpro/json4u) / [xml4u](https://github.com/boommanpro/xml4u)** · 把结构化数据看清楚
