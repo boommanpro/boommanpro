@@ -1,62 +1,88 @@
-# Hey 👋, This is boommanpro
+<!-- 部署说明:把此文件覆盖到 boommanpro/boommanpro 仓库的 README.md,并把 assets/profile/banner.png 一起上传到该仓库,然后下方的 ./banner.png 相对路径即可正常展示。 -->
 
-## 联系方式
+<p align="center">
+  <img src="./banner.png" alt="王启孟 · Boomman — AI Workflow Banner" width="100%" />
+</p>
 
-- Email：[![Mail Badge](https://img.shields.io/badge/-boommanpro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:boommanpro@gmail.com)](mailto:boommanpro@gmail.com)
-- 微信号: Love_You_8023
-- Github： [![Github Badge](https://img.shields.io/badge/-BoomManPro-grey?style=flat&logo=github&logoColor=white&link=https://github.com/BoomManPro/)](https://www.github.com/BoomManPro/)
+<h1 align="center">王启孟 · Boomman</h1>
 
-## 个人信息
+<p align="center">
+  <em>把 AI 工作流画在画布上,而不是写在 prompt 里。</em>
+</p>
 
- - 王启孟 / 男 / 1996 
- - 本科 / 山西大学 / 软件工程
- - 个人博客 [boommanpro.cn](https://boommanpro.cn)
- - Github Pages [boommanpro.github.io](https://boommanpro.github.io/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=boommanpro&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Workflow%20%7C%20Multi--Agent-22d3ee?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Beijing%20Changping-a78bfa?style=flat-square" alt="Location" />
+</p>
 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=BoomManPro alt=BoomManPro /> </p>
+---
 
-<!--
-**BoomManPro/BoomManPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java 老兵,现在在做 AI 工作流编排和多 Agent 协作的可视化工具。
+相信复杂 AI 流程应该被设计、被编排、被复用——而不是每次重新对话一遍。
 
-Here are some ideas to get you started:
+### 我在做什么
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**[Gaia Workflow Engine](https://github.com/boommanpro/gaia-workflow-engine)** · 把 AI 工作流搬上无限画布
+在无限画布上设计、测试、部署 AI 流程,无需写代码。结合 flowgram.ai 的能力与 Java 服务端,提供生产级工作流管理。
 
-Languages and Tools:
+**[Flowgram AI Rule Engine](https://github.com/boommanpro/flowgram-ai-rule-engine)** · 把业务决策从代码里抽出来
+基于 flowgram 的 TypeScript 规则引擎,让 AI 和人都能读懂规则。
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+**[Agent Scope Learning](https://github.com/boommanpro/agent-scope-learning)** · 多 Agent 协作的驾驶舱
+5 个 Agent 协作跑完一个 Fibonacci 任务,58 个事件全程可追溯。Config / Agents / Tools / Memory / Trace / Executors 全栈拆解,带三栏前端和执行日志。Planner + Worker + Summarizer 架构,工具集市 + 会话记忆。
 
--->
+**[Paddle Copy](https://github.com/boommanpro/paddle-copy)** · 图片文字一秒复制
+基于 Paddle OCR 的本地服务,微信图片识别复制效果。
 
-## 开源书籍
-[Java 单元测试](https://boommanpro.github.io/unit-test/#/)
+**json4u / xml4u** · 把结构化数据看清楚
+JSON / XML 可视化工具——数据多了之后,人眼需要画布。
 
-[Java selenium](https://boommanpro.github.io/java-selenium-crawler/#/)
+### 我相信的几件事
 
-[Java 日志技术](https://boommanpro.github.io/java-logging-framework/#/) 
+**AI 工作流是新的"代码"。** Prompt 是一次性的,工作流是可复用的。值得花时间把一次性的对话沉淀成可编排的流程。
 
-## 开源小工具
+**可视化是 AI 落地的最后一公里。** Agent 在黑盒里跑,没人敢用。把每个节点、每次工具调用、每条 memory 摊开,信任才会发生。
 
-[windows 右键base64编码文件](https://github.com/boommanpro/go-base64)
+**Java 老兵在 AI 时代不缺位。** 工程化、稳定性、生产级——这些 AI 产品同样需要,而老程序员最懂。
 
-[Windows 右键获取文件的md5值](https://github.com/boommanpro/go-md5-windows)
+### 一年的活动
 
-[内网网盘 产品经理上传Axure的小工具](https://github.com/boommanpro/web-folder-upload)
+<p align="center">
+  <img src="https://ghchart.rshah.org/2a1a4a/boommanpro" alt="王启孟的 GitHub 贡献热力图" width="95%" />
+</p>
 
-[IDEA 代码练习插件](https://github.com/boommanpro/type-idea-plugin)
+### 一些数字
 
-[StateMacine 在线工厂](https://github.com/boommanpro/state-machine-template-factory)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boommanpro&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boommanpro&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top Languages" />
+</p>
 
-[Build Your Skill Radar](https://github.com/boommanpro/my-skill-radar)
+### 技术栈
 
-[XXL Job 自用版](https://github.com/boommanpro/xxl-job)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Vue-42B883?logo=vue.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/flowgram.ai-AI%20Workflow-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Agent-Multi--Agent-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Paddle-OCR-1f62c1?style=flat-square" />
+</p>
+
+### 以前写过
+
+[Java 单元测试](https://boommanpro.github.io/unit-test/#/) · [Java Selenium 爬虫](https://boommanpro.github.io/java-selenium-crawler/#/) · [Java 日志技术](https://boommanpro.github.io/java-logging-framework/#/)
+
+### 找到我
+
+- 邮箱:[boommanpro@gmail.com](mailto:boommanpro@gmail.com)
+- 博客:[boommanpro.cn](https://boommanpro.cn/) · [GitHub Pages](https://boommanpro.github.io/)
+- 坐标:北京 · 昌平
+
+---
+
+<p align="center">
+  <sub>下一个项目:让 AI Agent 自己画工作流。</sub>
+</p>
