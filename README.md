@@ -1,4 +1,4 @@
-<!-- 部署说明:把此文件覆盖到 boommanpro/boommanpro 仓库的 README.md,并把 assets/profile/banner.png 一起上传到该仓库,然后下方的 ./banner.png 相对路径即可正常展示。 -->
+<!-- 部署说明:把此文件覆盖到 boommanpro/boommanpro 仓库的 README.md,并把 banner.png 一起上传到该仓库,然后下方的 ./banner.png 相对路径即可正常展示。Total Stars / Public Repos / Global Star Rank 为静态数字,Followers 为动态徽章;如需更新静态数字,可参考 https://gitstar-ranking.com/boommanpro 。 -->
 
 <p align="center">
   <img src="./banner.png" alt="王启孟 · Boomman — AI Workflow Banner" width="100%" />
@@ -8,6 +8,13 @@
 
 <p align="center">
   <em>把 AI 工作流画在画布上,而不是写在 prompt 里。</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Stars-118-FFD93D?style=flat-square&logo=github&logoColor=white" alt="Total Stars" />
+  <img src="https://img.shields.io/github/followers/boommanpro?style=flat-square&label=Followers&logo=github&logoColor=white&color=4C8BF5" alt="Followers" />
+  <img src="https://img.shields.io/badge/Public%20Repos-76-2EA44F?style=flat-square&logo=github&logoColor=white" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Global%20Star%20Rank-%23182%2C346-FF6B6B?style=flat-square&logo=github&logoColor=white" alt="Global Star Rank" />
 </p>
 
 <p align="center">
@@ -26,16 +33,10 @@ Java 老兵,现在在做 AI 工作流编排和多 Agent 协作的可视化工具
 **[Gaia Workflow Engine](https://github.com/boommanpro/gaia-workflow-engine)** · 把 AI 工作流搬上无限画布
 在无限画布上设计、测试、部署 AI 流程,无需写代码。结合 flowgram.ai 的能力与 Java 服务端,提供生产级工作流管理。
 
-**[Flowgram AI Rule Engine](https://github.com/boommanpro/flowgram-ai-rule-engine)** · 把业务决策从代码里抽出来
-基于 flowgram 的 TypeScript 规则引擎,让 AI 和人都能读懂规则。
-
-**[Agent Scope Learning](https://github.com/boommanpro/agent-scope-learning)** · 多 Agent 协作的驾驶舱
-5 个 Agent 协作跑完一个 Fibonacci 任务,58 个事件全程可追溯。Config / Agents / Tools / Memory / Trace / Executors 全栈拆解,带三栏前端和执行日志。Planner + Worker + Summarizer 架构,工具集市 + 会话记忆。
-
 **[Paddle Copy](https://github.com/boommanpro/paddle-copy)** · 图片文字一秒复制
 基于 Paddle OCR 的本地服务,微信图片识别复制效果。
 
-**json4u / xml4u** · 把结构化数据看清楚
+**[json4u](https://github.com/boommanpro/json4u) / [xml4u](https://github.com/boommanpro/xml4u)** · 把结构化数据看清楚
 JSON / XML 可视化工具——数据多了之后,人眼需要画布。
 
 ### 我相信的几件事
@@ -52,13 +53,6 @@ JSON / XML 可视化工具——数据多了之后,人眼需要画布。
   <img src="https://ghchart.rshah.org/2a1a4a/boommanpro" alt="王启孟的 GitHub 贡献热力图" width="95%" />
 </p>
 
-### 一些数字
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boommanpro&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boommanpro&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top Languages" />
-</p>
-
 ### 技术栈
 
 <p align="center">
@@ -71,15 +65,11 @@ JSON / XML 可视化工具——数据多了之后,人眼需要画布。
   <img src="https://img.shields.io/badge/Paddle-OCR-1f62c1?style=flat-square" />
 </p>
 
-### 以前写过
-
-[Java 单元测试](https://boommanpro.github.io/unit-test/#/) · [Java Selenium 爬虫](https://boommanpro.github.io/java-selenium-crawler/#/) · [Java 日志技术](https://boommanpro.github.io/java-logging-framework/#/)
-
 ### 找到我
 
-- 邮箱:[boommanpro@gmail.com](mailto:boommanpro@gmail.com)
-- 博客:[boommanpro.cn](https://boommanpro.cn/) · [GitHub Pages](https://boommanpro.github.io/)
 - 坐标:北京 · 昌平
+- 博客:[boommanpro.cn](https://boommanpro.cn/)
+- 邮箱:[boommanpro@gmail.com](mailto:boommanpro@gmail.com)
 
 ---
 
