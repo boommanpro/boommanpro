@@ -11,6 +11,16 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Vue-42B883?logo=vue.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/flowgram.ai-AI%20Workflow-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Agent-Multi--Agent-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Paddle-OCR-1f62c1?style=flat-square" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Total%20Stars-118-FFD93D?style=flat-square&logo=github&logoColor=white" alt="Total Stars" />
   <img src="https://img.shields.io/github/followers/boommanpro?style=flat-square&label=Followers&logo=github&logoColor=white&color=4C8BF5" alt="Followers" />
   <img src="https://img.shields.io/badge/Public%20Repos-76-2EA44F?style=flat-square&logo=github&logoColor=white" alt="Public Repos" />
@@ -20,7 +30,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=boommanpro&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-AI%20Workflow%20%7C%20Multi--Agent-22d3ee?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Beijing%20Changping-a78bfa?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Beijing%20Chaoyang-a78bfa?style=flat-square" alt="Location" />
 </p>
 
 ---
@@ -53,21 +63,9 @@ JSON / XML 可视化工具——数据多了之后,人眼需要画布。
   <img src="https://ghchart.rshah.org/2a1a4a/boommanpro" alt="王启孟的 GitHub 贡献热力图" width="95%" />
 </p>
 
-### 技术栈
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Vue-42B883?logo=vue.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/flowgram.ai-AI%20Workflow-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Agent-Multi--Agent-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Paddle-OCR-1f62c1?style=flat-square" />
-</p>
-
 ### 找到我
 
-- 坐标:北京 · 昌平
+- 坐标:北京 · 朝阳
 - 博客:[boommanpro.cn](https://boommanpro.cn/)
 - 邮箱:[boommanpro@gmail.com](mailto:boommanpro@gmail.com)
 
